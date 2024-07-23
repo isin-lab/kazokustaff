@@ -48,7 +48,7 @@ const Categories = () => {
 }
 
 const CardCategories = ({ card }) => {
-	const { header, structure } = card
+	const { header, structure, manual } = card
 	const [isActive, setIsActive] = useState(false)
 
 	const handleClick = () => {
@@ -74,6 +74,9 @@ const CardCategories = ({ card }) => {
 							</li>
 						))}
 					</ul>
+					<div className='containerManual'>
+						<span className='textSpan'>{manual}</span>
+					</div>
 				</div>
 			)}
 		</div>

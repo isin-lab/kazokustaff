@@ -13,7 +13,6 @@ function App() {
 				<Route path='/' element={<Categories />} />
 				<Route path='/menu' element={<Menu />} />
 				<Route path='/check' element={<Check />} />
-				Check
 			</Routes>
 		</Layout>
 	)

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kazokustaff/static/css/main.0bfdaf98.css",
+    "main.css": "/kazokustaff/static/css/main.520a0fe0.css",
     "main.js": "/kazokustaff/static/js/main.755c800f.js",
     "static/media/marinad.webp": "/kazokustaff/static/media/marinad.fb72a5a062c85ac5ca1a.webp",
     "static/media/gyR.webp": "/kazokustaff/static/media/gyR.ca43ee404fa9376b09a0.webp",
@@ -46,11 +46,11 @@
     "index.html": "/kazokustaff/index.html",
     "static/media/close.svg": "/kazokustaff/static/media/close.bae3a5f897ccefb9614d2c4521345b44.svg",
     "static/media/plus.svg": "/kazokustaff/static/media/plus.031653d9491ddf8b3447d4a4b6f3815f.svg",
-    "main.0bfdaf98.css.map": "/kazokustaff/static/css/main.0bfdaf98.css.map",
+    "main.520a0fe0.css.map": "/kazokustaff/static/css/main.520a0fe0.css.map",
     "main.755c800f.js.map": "/kazokustaff/static/js/main.755c800f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bfdaf98.css",
+    "static/css/main.520a0fe0.css",
     "static/js/main.755c800f.js"
   ]
 }

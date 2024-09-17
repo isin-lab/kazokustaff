@@ -1,0 +1,133 @@
+.sectionCategories {
+  padding: 0 15px;
+}
+
+.titleSectionCategories {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: left;
+  margin: 20px 0;
+  color: #999999
+}
+
+.selectBtnBlock {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: fit-content;
+}
+
+.categories {
+  width: 100%;
+  border-radius: 16px;
+  border: 3px solid #999999;
+  margin: 16px 0;
+}
+
+.descriptionCategories {
+  color: #fff;
+  padding-bottom: 16px;
+}
+
+.cardCategories {
+  width: 100%;
+  height: fit-content;
+  padding: 16px; 
+  display: flex;
+  justify-content: space-between;
+}
+
+.itemDescription {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px dotted white;
+  padding-top: 4px;
+  padding-bottom: 2px;
+  text-transform: lowercase;
+  font-size: 17px;
+}
+
+
+.cardCategoriesStart {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cardFlex {
+  display: flex;
+  align-items: center;
+}
+
+.myIcon {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  border-radius: 50%;
+}
+
+.iconWite {
+  background-color: #FFFFFF;
+  margin-right: 20px;
+}
+
+.iconGreen {
+  background-color: #21A038;
+}
+
+.textCardCategories {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.78px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+.cardCategoriesEnd {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.wrpBtn {
+  margin: 0px 0 0px;
+  background: none;
+  border: none;
+}
+
+.titleDescription {
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 14.52px;
+  text-align: left;
+  margin: 10px 0 5px;
+
+}
+
+.itemDescription {
+  margin: 2px 20px ;
+}
+
+.selectProduct {
+  display: flex;
+  justify-content: center;
+}
+
+.containerManual {
+  padding: 18px;
+}
+
+.wrpImage {
+  padding: 18px 18px 0;
+
+}
+
+.imageCard {
+  width: 100%;
+  border-radius: 10px;
+}
+

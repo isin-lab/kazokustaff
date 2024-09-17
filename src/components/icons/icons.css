@@ -1,0 +1,13 @@
+.myIcon {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  border-radius: 50%;
+}
+
+.iconWite {
+  background-color: #FFFFFF;
+  margin-right: 20px;
+}

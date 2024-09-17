@@ -1,0 +1,64 @@
+.containerCheck {
+  padding: 8px;
+  gap:16px;
+  margin-top: 16px;
+  color: white
+}
+
+.checkContainerTitle {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.checkItem {
+  width: 100%;
+  border: 3px solid #999999;
+  border-radius: 16px;
+  padding: 8px;
+  margin-top: 16px;
+}
+
+.headerCheck {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 40px;
+  padding: 4px 8px 8px;
+}
+
+.checkBtn {
+  width: 30px;
+  height: 30px;
+  background-color: #21A038;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkContent {
+  margin-top: 16px;
+}
+
+.checkList {
+  padding: 16px;
+  margin: 0;
+}
+
+.flexItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.checkListItemContent {
+  border-bottom: #999999 dotted;
+  padding: 8px 0 4px;
+}
+
+.textCheckItem {
+  padding-right: 8px;
+  font-size: 16px;
+}
+
